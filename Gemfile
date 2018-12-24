@@ -14,6 +14,9 @@ gem 'sass-rails', '~> 5.0'
 gem 'bootstrap', '~> 4.1.3'
 gem 'uglifier', '>= 1.3.0'
 gem 'bcrypt', '~> 3.1.7'
+gem 'will_paginate', '3.1.5'
+gem 'bootstrap-will_paginate', '1.0.0'
+gem 'will_paginate-bootstrap4'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'mini_racer', platforms: :ruby
 
